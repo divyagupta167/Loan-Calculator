@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Loan-Calculator/static/js/main.2433d26f.js",
+    "static/js/787.b6e36b20.chunk.js": "/Loan-Calculator/static/js/787.b6e36b20.chunk.js",
+    "index.html": "/Loan-Calculator/index.html",
+    "main.2433d26f.js.map": "/Loan-Calculator/static/js/main.2433d26f.js.map",
+    "787.b6e36b20.chunk.js.map": "/Loan-Calculator/static/js/787.b6e36b20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2433d26f.js"
+  ]
+}
