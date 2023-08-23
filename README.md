@@ -1,5 +1,5 @@
-Mortgage Calculator App
-This is a simple Mortgage Calculator app built using React and Material-UI components. The app allows users to calculate their mortgage loan details based on the input values for home value, down payment, interest rate, and loan term.
+Loan Calculator App
+This is a simple Loan Calculator app built using React and Material-UI components. The app allows users to calculate their mortgage loan details based on the input values for home value, down payment, interest rate, and loan term.
 
 Features
 Input sliders for selecting the Home Value and Loan Tenure.
