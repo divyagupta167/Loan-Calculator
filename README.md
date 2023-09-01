@@ -1,3 +1,7 @@
+
+
+![work5](https://github.com/divyagupta167/Loan-Calculator/assets/54738711/0967cfab-2db3-4a6e-965d-7803ec4082cf)
+
 Loan Calculator App
 This is a simple Loan Calculator app built using React and Material-UI components. The app allows users to calculate their mortgage loan details based on the input values for home value, down payment, interest rate, and loan term.
 
